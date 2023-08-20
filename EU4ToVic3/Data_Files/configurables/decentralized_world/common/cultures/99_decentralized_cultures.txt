@@ -212,31 +212,6 @@ avar={
 	}
 	graphics = asian
 }
-bahnaric={ # Revise Names
-	color={ 189 236 182 }
-	religion = animist
-	traits = { southeast_asian_heritage khmer_language }
-	male_common_first_names = {
-		Wùu Brom Núp Duh
-	}
-	female_common_first_names = {
-		Ya Siu
-	}	
-	noble_last_names = {
-		JoLong RoNgao GoLar Roh KonKde Kriem Tolô Bonâm "Kaco'"
-		KonTum Golar Tosung Alatang Alatông Roh Krem Cham But
-		Tôlô Lamam Hrê Tampuan Oy "Jru'" "Juk Su'" Nyaheun Jeng Sapuan
-		Brao Todrah
-		
-	}
-	common_last_names = {
-		Dok "'Brê" Bok Y A Oy Jeng Ban_Sapuan
-	}
-	ethnicities = {
-		1 = south_east_asian
-	}
-	graphics = asian
-}
 bear={
 	color={ 255 255 255 }
 	religion = animist
@@ -266,37 +241,6 @@ bear={
 		1 = native_american
 	}
 	graphics = generic
-}
-cham={ # Revise Names
-	color={ 61 100 45 }
-	religion = sunni # Most converted to Islam by 1700s
-	traits = { southeast_asian_heritage malay_culture }
-	male_common_first_names = {
-		Ibrahim Linh Yashya
-		"Ko cheng" "Jaya Sinhavarman" "Maija Vijaya" "Moho Kouei-Lai" "Maha Kui Yu" "Maha P'an-lo-yue" "Po Saktirai" "Po Ganvuh" "Po Thuttirai" "Po Rattirai" "Po Tathun" "Po Tithuntirai" "Chei Krei Brei" "Po Tithun" "Po Lathun" "Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
-	}
-	female_common_first_names = {
-		Fatimah Mariah
-		Hòng Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu’utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
-		Puatea Puaura Ra’ihau Ra’imere Ra’inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
-		Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
-		Vaite Vaitiare
-	}	
-	noble_last_names = {
-		Sri_Banoy Hangâu Anguai
-		Cau Canar Chê 
-		Vijaya Kauthara Panduranga Indrapura
-		"Rajasanagara" "Saktirai" "P'an-Lo" "Cheng" "Gunungjati"
-	}
-	common_last_names = {
-		Po Sos Has Musa Amath Kob
-		Vijaya Kauthara Panduranga Indrapura
-		"Rajasanagara" "Saktirai" "P'an-Lo" "Cheng" "Gunungjati"
-	}
-	ethnicities = {
-		1 = south_east_asian
-	}
-	graphics = asian
 }
 cuman={
 	color={ 231 192 88 }
