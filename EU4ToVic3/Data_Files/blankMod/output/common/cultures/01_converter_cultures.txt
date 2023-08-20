@@ -131,20 +131,21 @@ bahnaric={ # Revise Names
 	religion = animist
 	traits = { southeast_asian_heritage khmer_language }
 	male_common_first_names = {
-		Wùu Brom Núp Duh
+		norm_Wuu norm_Brom norm_Nup norm_Duh
 	}
 	female_common_first_names = {
-		Ya Siu
+		norm_Ya norm_Siu
 	}	
 	noble_last_names = {
-		JoLong RoNgao GoLar Roh KonKde Kriem Tolô Bonâm "Kaco'"
-		KonTum Golar Tosung Alatang Alatông Roh Krem Cham But
-		Tôlô Lamam Hrê Tampuan Oy "Jru'" "Juk Su'" Nyaheun Jeng Sapuan
-		Brao Todrah
+		norm_JoLong norm_RoNgao norm_GoLar norm_Roh norm_KonKde norm_Kriem norm_Tolo norm_Bonam 
+		norm_Kaco norm_KonTum norm_Golar norm_Tosung norm_Alatang norm_Alatong norm_Roh norm_Krem 
+		norm_Cham norm_But norm_Tolo norm_Lamam norm_Hre norm_Tampuan norm_Oy norm_Jru 
+		norm_Juk_Su norm_Nyaheun norm_Jeng norm_Sapuan
+		norm_Brao norm_Todrah
 		
 	}
 	common_last_names = {
-		Dok "'Brê" Bok Y A Oy Jeng Ban_Sapuan
+		norm_Dok norm_Bre norm_Bok norm_Y norm_A norm_Oy norm_Jeng norm_Ban_Sapuan
 	}
 	ethnicities = {
 		1 = south_east_asian
